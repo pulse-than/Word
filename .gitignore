@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 #ignore thumbnails created by windows
 Thumbs.db
@@ -27,3 +28,18 @@ obj/
 [Rr]elease*/
 _ReSharper*/
 [Tt]est[Rr]esult*
+=======
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+>>>>>>> 0937e53ae9c70199b17cf31621e5307e7b7c014e
